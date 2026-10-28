@@ -8,7 +8,7 @@ Let It Shroom lets you place mushrooms at any light level, removing the usual li
 - 🍄 Place mushrooms at any light level.
 - 🌱 Build mushroom gardens wherever your heart desires.
 
-![Mushrooms placed on grass in sky light level](mod_resources/mushroom_placement.webp)
+![Mushrooms placed on grass in sky light level](mod_resources/mushroom_placement.gif)
 
 ### Compatibility
 Available for Fabric, Quilt, Neoforge and Forge
